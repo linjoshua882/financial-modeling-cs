@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Coding\C#\ml-windows-display\obj\Debug\net8.0\ml-windows-display.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Coding\C#\ml-windows-display\obj\Debug\net8.0\ml-windows-display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Coding\C#\ml-windows-display\obj\Debug\net8.0\ml-windows-display.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Coding\C#\ml-windows-display\obj\Debug\net8.0\ml-windows-display.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Coding\C#\ml-windows-display\obj\Debug\net8.0\ml-windows-display.csproj.CoreCompileInputs.cache
